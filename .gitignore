@@ -1,0 +1,16 @@
+# Ignore all
+*
+*/
+
+# White lists
+!src/
+!src/*
+
+!head/
+!head/*
+
+!project/
+!project/CMakeLists.txt
+
+!README.md
+!.gitignore
