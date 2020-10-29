@@ -1,4 +1,8 @@
 # What is it?
+
+This repository is discontinued and will be removed.  
+It data pick up on [here](https://github.com/HoriThe3rd/cpp_tools)  
+
 A simple C++ progress bar for CLI.
 
 C++向けのプログレスバーをコンソールに表示するためのかんたんなクラス．
